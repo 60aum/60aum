@@ -23,24 +23,67 @@ Transformando dados em decisões estratégicas através de análise, automação
 
 <div align="left">
 
+<!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<!-- SQL -->
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="sql logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+<!-- BigQuery -->
+<img src="https://cdn.simpleicons.org/googlebigquery/4285F4" height="40" alt="bigquery logo" />
 <img width="12" />
 
+<!-- Jupyter -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
 <img width="12" />
 
+<!-- VS Code -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 <img width="12" />
 
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+<img width="12" />
+
+<!-- HubSpot -->
+<img src="https://cdn.simpleicons.org/hubspot/FF7A59" height="40" alt="hubspot logo" />
+<img width="12" />
+
+<!-- Google Analytics -->
+<img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="40" alt="google analytics logo" />
+<img width="12" />
+
+<!-- Google Sheets -->
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" height="40" alt="google sheets logo" />
+<img width="12" />
+
+<!-- Excel -->
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="excel logo" />
+<img width="12" />
+
+<!-- Power BI -->
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="power bi logo" />
+<img width="12" />
+
+<!-- Meta Ads -->
+<img src="https://cdn.simpleicons.org/meta/0467DF" height="40" alt="meta ads logo" />
+<img width="12" />
+
+<!-- Google Ads -->
+<img src="https://cdn.simpleicons.org/googleads/4285F4" height="40" alt="google ads logo" />
+<img width="12" />
+
+<!-- Trello -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
+<img width="12" />
+
+<!-- Figma -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 
 </div>
