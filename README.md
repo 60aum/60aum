@@ -124,19 +124,3 @@ Transformando dados em decisões estratégicas através de análise, automação
 </a>
 
 </p>
-
----
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=60aum&show_icons=true&theme=transparent"/
-
-</div>
-
----
-
-<p align="center">
-“Dados mostram o que aconteceu. Análises explicam o porquê. Estratégia define o próximo passo.”
-</p>
