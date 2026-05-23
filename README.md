@@ -85,11 +85,11 @@ Building data-driven systems, dashboards and analytics projects focused on busin
 
 <p align="left">
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/joaorevops">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:joaaovitorr018@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
