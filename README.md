@@ -35,10 +35,6 @@ Transformando dados em decisões estratégicas através de análise, automação
 <img src="https://cdn.simpleicons.org/googlebigquery/4285F4" height="40" alt="bigquery logo" />
 <img width="12" />
 
-<!-- Jupyter -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-<img width="12" />
-
 <!-- VS Code -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 <img width="12" />
@@ -57,18 +53,6 @@ Transformando dados em decisões estratégicas através de análise, automação
 
 <!-- Google Analytics -->
 <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="40" alt="google analytics logo" />
-<img width="12" />
-
-<!-- Google Sheets -->
-<img src="https://cdn.simpleicons.org/googlesheets/34A853" height="40" alt="google sheets logo" />
-<img width="12" />
-
-<!-- Excel -->
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="excel logo" />
-<img width="12" />
-
-<!-- Power BI -->
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="power bi logo" />
 <img width="12" />
 
 <!-- Meta Ads -->
