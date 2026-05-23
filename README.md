@@ -5,22 +5,21 @@ Revenue Operations • Marketing Analytics • Data Analytics
 </h3>
 
 <p align="center">
-Building data-driven systems, dashboards and analytics projects focused on business growth.
+Transformando dados em decisões estratégicas através de análise, automação e inteligência de negócios.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-- 📊 Transitioning from Traffic Management to Revenue Operations & Marketing Analytics
-- 🧠 Focused on SQL, Python, Business Intelligence and Data Strategy
-- 📈 Interested in RevOps, Marketing Ops, CRM Analytics and Process Automation
-- 🌎 Based in Brazil and preparing for international opportunities
-- 📚 Currently improving English, analytics engineering and business intelligence skills
+- 📊 Em transição da área de AdOps para Revenue Operations & Marketing Analytics
+- 🧠 Estudando SQL, Python, Business Intelligence e Analytics Engineering
+- 📈 Interesse em RevOps, CRM Analytics, automação e análise de dados
+- 📚 Aprendizado contínuo em análise de negócios e tomada de decisão orientada por dados
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
 
@@ -48,44 +47,44 @@ Building data-driven systems, dashboards and analytics projects focused on busin
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projetos em Destaque
 
 ### 📈 Revenue Analytics Project
-- Cohort analysis
-- CAC & LTV analysis
-- SQL-based revenue tracking
-- Dashboard structure for RevOps teams
+- Análise de Cohort
+- CAC & LTV
+- Queries SQL para métricas de receita
+- Estruturação de dashboards para RevOps
 
-### 📊 Marketing Data Dashboard
-- Lead funnel tracking
-- Conversion analysis
-- KPI visualization
-- Campaign performance insights
+### 📊 Marketing Analytics Dashboard
+- Análise de funil de leads
+- Conversão de campanhas
+- KPIs de marketing e vendas
+- Visualização estratégica de dados
 
-### ⚙️ Automation & Analytics
-- Process optimization
-- Data cleaning workflows
-- Spreadsheet automation
-- Business intelligence studies
+### ⚙️ Automação & Dados
+- Limpeza e transformação de dados
+- Automação de processos
+- Estudos de BI e Analytics
+- Estruturação de bases analíticas
 
 ---
 
-## 📚 Currently Learning
+## 📚 Atualmente estudando
 
-- Advanced SQL
-- Python for Data Analytics
+- SQL Avançado
+- Python para Análise de Dados
 - Power BI
 - Revenue Operations
-- Data Modeling
+- Modelagem de Dados
 - Analytics Engineering
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contato
 
 <p align="left">
 
-<a href="www.linkedin.com/in/joaorevops">
+<a href="https://www.linkedin.com/in/joaorevops">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -97,18 +96,16 @@ Building data-driven systems, dashboards and analytics projects focused on busin
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas GitHub
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=60aum&show_icons=true&theme=transparent"/
 
 </div>
 
 ---
 
 <p align="center">
-"Data is useful. Insights are valuable. Decisions are everything."
+“Dados mostram o que aconteceu. Análises explicam o porquê. Estratégia define o próximo passo.”
 </p>
