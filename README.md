@@ -23,6 +23,10 @@ Transformando dados em decisões estratégicas através de análise, automação
 
 <div align="left">
 
+<!-- Looker Studio -->
+<img src="https://cdn.simpleicons.org/looker/4285F4" height="40" alt="looker studio logo" />
+<img width="12" />
+
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 <img width="12" />
