@@ -1,4 +1,4 @@
-<h1 align="center">João Vitor Domingos</h1>
+<h1 align="center">João Vitor Domingos Vicente</h1>
 
 <h3 align="center">
 Revenue Operations • Marketing Analytics • Data Analytics
