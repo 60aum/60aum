@@ -1,7 +1,7 @@
 <h1 align="center">João Vitor Domingos Vicente</h1>
 
 <h3 align="center">
-Revenue Operations • Marketing Analytics • Data Analytics
+Web Analytics • Marketing Analytics • Data Analytics
 </h3>
 
 <p align="center">
@@ -105,7 +105,7 @@ Transformando dados em decisões estratégicas através de análise, automação
 - SQL Avançado
 - Python para Análise de Dados
 - Power BI
-- Revenue Operations
+- Web analytics
 - Modelagem de Dados
 - Analytics Engineering
 
